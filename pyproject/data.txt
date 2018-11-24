@@ -1,0 +1,20 @@
+Booker T., Washington, 87360, 373 781 7380, yellow
+Chandler, Kerri, (623)-668-9293, pink, 123123121
+James Murphy, yellow, 83880, 018 154 6474
+James,  Murphy,  018 154 6474, yellow,83880
+James1, Murphy,  018 154 6474, yellow,   83881
+James1, Murphy,  018 154 6474, yellow,   83882
+Phone1, number6,  (123)-123-1234, yellow,   83882
+Phone8, number10,  123-123-1234  , yellow,   83882
+Phone3, number8,  1231231234    , yellow,   83882
+Phone9, number4,  123 123 1234  , yellow,   83882
+Phone6, number8,  123-123 1234  , yellow,   83882
+Phone6, number6,  123 123-1234  , yellow,   83882
+Phone6, number7,  (123)123-1234 , yellow,   83882
+Phone6, number1,  (123) 123-1234, yellow,   83882
+Phone6, number9,  (123)-123 1234, yellow,   83882
+zip, codeValid,  018 154 6474, yellow,83881
+zip, codewithSpace,  018 154 6474, yellow,   83881
+zip, codeInvalid1,  018 154 6474, yellow,1234
+zip, codeInvalid2,  018 154 6474, yellow,123456
+zip, codeInvalid3,  018 154 6474, yellow,123 45

@@ -1,0 +1,123 @@
+{
+  "entries": [
+    {
+      "color": "yellow",
+      "firstname": "Murphy",
+      "lastname": "James",
+      "phonenumber": "018 154 6474",
+      "zipcode": "83880"
+    },
+    {
+      "color": "yellow",
+      "firstname": "Murphy",
+      "lastname": "James1",
+      "phonenumber": "018 154 6474",
+      "zipcode": "83881"
+    },
+    {
+      "color": "yellow",
+      "firstname": "Murphy",
+      "lastname": "James1",
+      "phonenumber": "018 154 6474",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "James",
+      "lastname": "Murphy",
+      "phonenumber": "018 154 6474",
+      "zipcode": "83880"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number6",
+      "lastname": "Phone1",
+      "phonenumber": "(123)-123-1234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number8",
+      "lastname": "Phone3",
+      "phonenumber": "1231231234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number1",
+      "lastname": "Phone6",
+      "phonenumber": "(123) 123-1234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number6",
+      "lastname": "Phone6",
+      "phonenumber": "123 123-1234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number7",
+      "lastname": "Phone6",
+      "phonenumber": "(123)123-1234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number8",
+      "lastname": "Phone6",
+      "phonenumber": "123-123 1234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number9",
+      "lastname": "Phone6",
+      "phonenumber": "(123)-123 1234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number10",
+      "lastname": "Phone8",
+      "phonenumber": "123-123-1234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "number4",
+      "lastname": "Phone9",
+      "phonenumber": "123 123 1234",
+      "zipcode": "83882"
+    },
+    {
+      "color": "yellow",
+      "firstname": "Booker T.",
+      "lastname": "Washington",
+      "phonenumber": "373 781 7380",
+      "zipcode": "87360"
+    },
+    {
+      "color": "yellow",
+      "firstname": "codeValid",
+      "lastname": "zip",
+      "phonenumber": "018 154 6474",
+      "zipcode": "83881"
+    },
+    {
+      "color": "yellow",
+      "firstname": "codewithSpace",
+      "lastname": "zip",
+      "phonenumber": "018 154 6474",
+      "zipcode": "83881"
+    }
+  ],
+  "errors": [
+    0,
+    2,
+    18,
+    19,
+    20
+  ]
+}
